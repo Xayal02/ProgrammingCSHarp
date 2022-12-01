@@ -1,0 +1,13 @@
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.csproj.AssemblyReference.cache
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form1.resources
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Properties.Resources.resources
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.csproj.GenerateResource.cache
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.csproj.CoreCompileInputs.cache
+D:\Independent_Work\Independent_Work\bin\Debug\Independent_Work.exe.config
+D:\Independent_Work\Independent_Work\bin\Debug\Independent_Work.exe
+D:\Independent_Work\Independent_Work\bin\Debug\Independent_Work.pdb
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.exe
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.pdb
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form2.resources
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form3.resources
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form4.resources
