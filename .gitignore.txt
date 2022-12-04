@@ -1,5 +1,3 @@
 .vs/
 bin/
 obj/
-test10/
-test11/
