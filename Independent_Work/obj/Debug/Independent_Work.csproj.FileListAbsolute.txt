@@ -11,3 +11,4 @@ D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.pdb
 D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form2.resources
 D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form3.resources
 D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.Form4.resources
+D:\Independent_Work\Independent_Work\obj\Debug\Independent_Work.csproj.SuggestedBindingRedirects.cache
