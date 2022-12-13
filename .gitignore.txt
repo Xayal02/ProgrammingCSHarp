@@ -2,4 +2,3 @@
 bin/
 fm4mrfgvtr/
 dmfrm/
-drmr/
