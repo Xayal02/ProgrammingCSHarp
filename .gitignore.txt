@@ -1,3 +1,4 @@
 .vs/
 bin/
 qwerty/
+qwerty2/
